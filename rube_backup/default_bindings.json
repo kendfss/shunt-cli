@@ -1,0 +1,19 @@
+[
+    {
+        "move_up": "w",
+        "move_down": "s",
+        "move_left": "a",
+        "move_right": "d",
+        "action_up": "arrow_up",
+        "action_down": "arrow_down",
+        "action_left": "arrow_left",
+        "action_right": "arrow_right",
+        "toggle_slide_flip": "ctrl+tilde",
+        "reset": "ctrl+r",
+        "save": "ctrl+s",
+        "new_game": "n",
+        "undo": "ctrl+z",
+        "redo": "ctrl+y",
+        "next_panel": "tab"
+    }
+]
