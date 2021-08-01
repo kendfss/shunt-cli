@@ -13,6 +13,13 @@ The objective is to use flips and slides to sort the tiles in the grid.
  6 | 4 | 1 
  2 | 3 | 5
 ```
+The objective is to sort the matrix into:  
+```shell
+ 1 | 2 | 3 
+ 4 | 5 | 6 
+ 7 | 8 | 9 
+```
+ 
 ### Keybindings
 ```json
 [

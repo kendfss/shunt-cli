@@ -13,7 +13,7 @@ import (
 	
 	"rube/board"
 	st"rube/stringtools"
-	it"rube/itertools"
+	_"rube/itertools"
 	nt"rube/numtools"
 )
 
@@ -405,7 +405,7 @@ func (self Game) Draw() {
 	tbprint(w-len(moves), 0, coldef, coldef, moves)
 	
 	// dt :=
-	tbprint(0, 0, coldef, coldef, self.elapsedTime.String()) 
+	// tbprint(0, 0, coldef, coldef, self.elapsedTime.String()) 
 	
 	for i, line := range st.Lines(self.repr()) {
 		xshift := (width - st.RuneLen(line)) / 2
