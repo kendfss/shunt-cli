@@ -41,9 +41,9 @@ The objective is to sort the matrix into using as few moves as possible:
         "reset": "ctrl+r",
         
         "new_game": "n",
-        "load": "l"
-        "hide": "h"
-        "info": "i"
+        "load": "l",
+        "hide": "h",
+        "info": "i",
         "save": "ctrl+s",
         "next_panel": "tab",
         "quit": "ctrl+c",
