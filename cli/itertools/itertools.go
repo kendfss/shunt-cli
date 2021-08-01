@@ -1,12 +1,11 @@
-// package itertools // import "tildegit.org/eli2and40/rube/itertools"
-package itertools // import "rube/itertools"
+package itertools
 
 import (
 	"fmt"
 	"math"
 	
 	
-	nt"rube/numtools"
+	nt"tildegit.org/eli2and40/rube/cli/numtools"
 )
 
 func Clone(slice []int) []int {

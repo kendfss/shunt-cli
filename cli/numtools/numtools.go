@@ -1,11 +1,10 @@
-// package numtools // import "tildegit.org/eli2and40/rube/numtools"
-package numtools // import "rube/numtools"
+package numtools
 
 import (
 	"crypto/rand"
 	"math"
 	
-	et"rube/errortools"
+	et"tildegit.org/eli2and40/rube/cli/errortools"
 )
 
 func Sign(i int) int {

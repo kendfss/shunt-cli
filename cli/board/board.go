@@ -1,13 +1,11 @@
-// package board // import "tildegit.org/eli2and40/rube/board"
-package board // import "rube/board"
-// package main
+package board
 
 import (
 	"fmt"
 	
-	it"rube/itertools"
-	nt"rube/numtools"
-	st"rube/stringtools"
+	it"tildegit.org/eli2and40/rube/cli/itertools"
+	nt"tildegit.org/eli2and40/rube/cli/numtools"
+	st"tildegit.org/eli2and40/rube/cli/stringtools"
 )
 
 type Board struct {

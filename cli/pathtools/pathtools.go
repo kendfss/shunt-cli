@@ -1,4 +1,4 @@
-package pathtools // import "tildegit.org/eli2and40/rube/pathtools"
+package pathtools
 
 import (
 	"os"
@@ -6,7 +6,7 @@ import (
 	"io/fs"
 	
 	// et"tildegit.org/eli2and40/rube/errortools"
-	et"rube/errortools"
+	et"tildegit.org/eli2and40/rube/cli/errortools"
 )
 
 func getDirPath() string {

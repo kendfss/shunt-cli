@@ -1,4 +1,3 @@
-// package clocktools // import "rube/clocktools"
 package main
 
 import (
@@ -6,8 +5,8 @@ import (
 	"fmt"
 	"strconv"
 	
-	nt"rube/numtools"
-	it"rube/itertools"
+	nt"tildegit.org/eli2and40/rube/cli/numtools"
+	it"tildegit.org/eli2and40/rube/cli/itertools"
 )
 
 const (

@@ -1,6 +1,4 @@
-// package game // import "tildegit.org/eli2and40/rube/game"
-// package game // import "rube/game"
-package main
+package game
 
 import (
 	"fmt"
@@ -11,10 +9,10 @@ import (
 	"github.com/nsf/termbox-go"
 	"github.com/mattn/go-runewidth"
 	
-	"rube/board"
-	st"rube/stringtools"
-	_"rube/itertools"
-	nt"rube/numtools"
+	"tildegit.org/eli2and40/rube/cli/board"
+	st"tildegit.org/eli2and40/rube/cli/stringtools"
+	_"tildegit.org/eli2and40/rube/cli/itertools"
+	nt"tildegit.org/eli2and40/rube/cli/numtools"
 )
 
 type Game struct {

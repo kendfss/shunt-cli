@@ -1,5 +1,4 @@
-// package errortools // import "tildegit.org/eli2and40/rube/errortools"
-package errortools // rube/errortools
+package errortools
 
 
 import (

@@ -1,4 +1,4 @@
-package stringtools // import "tildegit.org/eli2and40/rube/stringtools"
+package stringtools
 
 import (
 	"strings"
@@ -8,7 +8,7 @@ import (
 	"github.com/mattn/go-runewidth"
 	"github.com/nsf/termbox-go"
 	
-	nt"rube/numtools"
+	nt"tildegit.org/eli2and40/rube/cli/numtools"
 )
 
 const tabstop_length = 8
