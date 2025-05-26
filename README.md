@@ -1,5 +1,6 @@
-Rube
+shunt
 ----
+
 A game inspired by the notion of a 2D-Rubik's Cube  
 
 The objective is to use flips and slides to sort the tiles in the grid.

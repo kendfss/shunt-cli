@@ -1,5 +1,4 @@
-// module tildegit.org/eli2and40/rube
-module rube
+module github.com/kendfss/shunt-cli
 
 go 1.16
 
